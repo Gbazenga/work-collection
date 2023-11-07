@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/work-collection/static/css/main.b95b1ed7.css",
+    "main.js": "/work-collection/static/js/main.4f734668.js",
+    "static/media/travel.jpg": "/work-collection/static/media/travel.e987305c2ec630494155.jpg",
+    "static/media/book.jpg": "/work-collection/static/media/book.689e6d43ded88ae9d16a.jpg",
+    "static/media/squares-long.png": "/work-collection/static/media/squares-long.f92b7ec47c3b61e3cedc.png",
+    "static/media/cookie.jpg": "/work-collection/static/media/cookie.b15010c285f8279ce9ed.jpg",
+    "static/media/c-sharp.jpg": "/work-collection/static/media/c-sharp.ad2887ee53d0e1e0b7b2.jpg",
+    "static/media/gama-full-stack.jpg": "/work-collection/static/media/gama-full-stack.9154dc4923f92fe01408.jpg",
+    "static/media/udemy-javascript.jpg": "/work-collection/static/media/udemy-javascript.ebe497a2123efe0bb340.jpg",
+    "static/media/udemy-react.jpg": "/work-collection/static/media/udemy-react.5d15e5820b18b5cd68dc.jpg",
+    "static/media/udemy-npm.jpg": "/work-collection/static/media/udemy-npm.ee7c76e9caf21e9840ba.jpg",
+    "static/media/udemy-tests.jpg": "/work-collection/static/media/udemy-tests.abbb05be415b0b527f00.jpg",
+    "static/media/headshot.png": "/work-collection/static/media/headshot.8a019737695ec0949f4d.png",
+    "static/media/udemy-typescript.jpg": "/work-collection/static/media/udemy-typescript.2ffcfd04832151bf2571.jpg",
+    "index.html": "/work-collection/index.html",
+    "main.b95b1ed7.css.map": "/work-collection/static/css/main.b95b1ed7.css.map",
+    "main.4f734668.js.map": "/work-collection/static/js/main.4f734668.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b95b1ed7.css",
+    "static/js/main.4f734668.js"
+  ]
+}
