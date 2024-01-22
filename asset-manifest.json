@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/work-collection/static/css/main.605085cf.css",
-    "main.js": "/work-collection/static/js/main.d936755e.js",
+    "main.css": "/work-collection/static/css/main.4734f199.css",
+    "main.js": "/work-collection/static/js/main.3adb5518.js",
     "static/media/travel.jpg": "/work-collection/static/media/travel.e987305c2ec630494155.jpg",
     "static/media/book.jpg": "/work-collection/static/media/book.689e6d43ded88ae9d16a.jpg",
     "static/media/squares-long.png": "/work-collection/static/media/squares-long.f92b7ec47c3b61e3cedc.png",
@@ -14,12 +14,13 @@
     "static/media/udemy-tests.jpg": "/work-collection/static/media/udemy-tests.abbb05be415b0b527f00.jpg",
     "static/media/headshot.png": "/work-collection/static/media/headshot.8a019737695ec0949f4d.png",
     "static/media/udemy-typescript.jpg": "/work-collection/static/media/udemy-typescript.2ffcfd04832151bf2571.jpg",
+    "static/media/udemy-next.jpg": "/work-collection/static/media/udemy-next.d7e528286f7d7d231834.jpg",
     "index.html": "/work-collection/index.html",
-    "main.605085cf.css.map": "/work-collection/static/css/main.605085cf.css.map",
-    "main.d936755e.js.map": "/work-collection/static/js/main.d936755e.js.map"
+    "main.4734f199.css.map": "/work-collection/static/css/main.4734f199.css.map",
+    "main.3adb5518.js.map": "/work-collection/static/js/main.3adb5518.js.map"
   },
   "entrypoints": [
-    "static/css/main.605085cf.css",
-    "static/js/main.d936755e.js"
+    "static/css/main.4734f199.css",
+    "static/js/main.3adb5518.js"
   ]
 }
